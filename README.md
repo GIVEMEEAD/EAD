@@ -7,6 +7,7 @@ Register a heroku account. [Sign up heroku](https://signup.heroku.com)
 
 ## Step 2
 You can deploy the youtube refresher to Heroku by clicking this button.
+***
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GIVEMEEAD/EAD.git)
 
 ## Step 3
