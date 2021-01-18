@@ -19,7 +19,7 @@ def run_refresher():
         driver.get("https://www.bilibili.com/video/BV1JV411r7m9?from=search&seid=85324665481620243")
         driver.refresh()
         print("browser refreshed")
-        time.sleep(random.randint(2,10))
+        time.sleep(random.randint(100,120))
 
 app = FastAPI()
 
