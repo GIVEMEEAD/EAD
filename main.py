@@ -16,6 +16,7 @@ def run_refresher():
     # browser_list = [webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),chrome_options=chrome_options) for _ in range(2)]
     driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),chrome_options=chrome_options)
     while True:
+        driver.get("https://www.bilibili.com/video/BV1JV411r7m9?from=search&seid=85324665481620243")
         driver.refresh()
         print("browser refreshed")
         time.sleep(random.randint(2,10))
