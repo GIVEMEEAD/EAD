@@ -1,7 +1,7 @@
 {
-    "name": "Node.js Sample",
-    "description": "A barebones Node.js app using Express",
+    "name": "An effort to expose the deplay of OPT process by USCIS",
+    "description": "An effort to expose the deplay of OPT process by USCIS",
     "repository": "https://github.com/GIVEMEEAD/EAD.git",
-    "logo": "https://node-js-sample.herokuapp.com/node.png",
-    "keywords": ["node", "express", "static"]
+    "logo": "https://github.com/GIVEMEEAD/EAD/blob/main/F1-Logo.png",
+    "keywords": ["F-1", "OPT", "EAD"]
   }
