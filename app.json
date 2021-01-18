@@ -5,6 +5,7 @@
     "image": "heroku/python",
     "logo": "https://github.com/GIVEMEEAD/EAD/blob/main/F1-Logo.png",
     "keywords": ["F-1", "OPT", "EAD"],
+    "success_url": "/",
     "env":{
         "CHROMEDRIVER_PATH":"/app/.chromedriver/bin/chromedriver",
         "GOOGLE_CHROME_BIN":"/app/.apt/usr/bin/google-chrome"
