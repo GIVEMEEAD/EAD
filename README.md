@@ -18,4 +18,4 @@ Go to the home page of you Heroku account. Come into the app you just deployed a
 
 # What you have done?
 
-You just created a website and this website will run and refresh a browser with opening window playing the youtube link [TX Lockbox and Trump Administration are Ruining High-Skilled Foreign Students' Future in America](https://www.youtube.com/watch?v=MZl3sTOIW1E&feature=youtu.be). Thank you for your effort for helping international students.
+You just created a website and this website will run and refresh a browser with opening window playing the youtube link [TX Lockbox and Trump Administration are Ruining High-Skilled Foreign Students' Future in America](https://www.youtube.com/watch?v=MZl3sTOIW1E&feature=youtu.be). Thank you for your efforts for helping international students.
