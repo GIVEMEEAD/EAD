@@ -2,6 +2,8 @@
     "name": "An effort to expose the deplay of OPT process by USCIS",
     "description": "An effort to expose the deplay of OPT process by USCIS",
     "repository": "https://github.com/GIVEMEEAD/EAD.git",
+    "image": "heroku/python",
+    "logo": "https://github.com/GIVEMEEAD/EAD/blob/main/F1-Logo.png",
     "keywords": ["F-1", "OPT", "EAD"],
     "env":{
         "CHROMEDRIVER_PATH":"/app/.chromedriver/bin/chromedriver",
@@ -13,6 +15,9 @@
         },
         {
           "url": "https://github.com/heroku/heroku-buildpack-chromedriver"
+        },
+        {
+            "url":"https://github.com/heroku/heroku-buildpack-python.git"
         }
       ]
   }
